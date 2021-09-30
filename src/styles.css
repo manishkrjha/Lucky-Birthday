@@ -1,0 +1,13 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+body {
+  background-color: #7c3aed;
+}
+
+* {
+  font-family: "Lato", sans-serif;
+  font-size: 1.15rem;
+}
